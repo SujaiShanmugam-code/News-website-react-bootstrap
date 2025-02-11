@@ -1,12 +1,20 @@
-<<<<<<< HEAD
-# News-website-react-bootstrap
-=======
-# React + Vite
+# News Website (React & Bootstrap)
+## React + Vite
+This is a news website where users can view the latest news from various sources. Built with React for the front-end and Bootstrap for styling, this website offers a simple, responsive design to display news articles in an easy-to-navigate format.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+✅View the latest news articles
+✅Responsive design for mobile and desktop views
+✅Bootstrap-based layout for an elegant and functional UI
 
-Currently, two official plugins are available:
+# Technologies Used
+⚡ React: JavaScript library for building user interfaces
+⚡ Bootstrap: CSS framework for responsive and styled components
+⚡ JavaScript: The core language used for the project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 71621c8 (Initial comit)
+# Contributing
+Feel free to fork the repository, create an issue, or submit a pull request if you'd like to contribute to the project.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
