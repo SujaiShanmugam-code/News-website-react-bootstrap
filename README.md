@@ -7,6 +7,10 @@ This is a news website where users can view the latest news from various sources
 ✅Responsive design for mobile and desktop views
 ✅Bootstrap-based layout for an elegant and functional UI
 
+# User Interface 
+<img width="1440" alt="Screenshot 2025-02-11 at 7 01 15 PM" src="https://github.com/user-attachments/assets/bde4e025-d44e-4497-baab-31e2f3bfc1c5" />
+
+
 # Technologies Used
 ⚡ React: JavaScript library for building user interfaces
 ⚡ Bootstrap: CSS framework for responsive and styled components
